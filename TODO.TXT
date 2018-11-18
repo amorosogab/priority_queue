@@ -1,0 +1,3 @@
+1: Introdurre la libreria array variabili già creata;
+
+2: Aggiungere la funzionalità che permette di effettuare la copia dell'object, in base a un parametro in ingresso;
